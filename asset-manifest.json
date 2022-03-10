@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/%20voted_post_react/static/css/main.479be696.css",
-    "main.js": "/%20voted_post_react/static/js/main.269677f4.js",
-    "static/js/787.08d5b53a.chunk.js": "/%20voted_post_react/static/js/787.08d5b53a.chunk.js",
-    "index.html": "/%20voted_post_react/index.html",
-    "main.479be696.css.map": "/%20voted_post_react/static/css/main.479be696.css.map",
-    "main.269677f4.js.map": "/%20voted_post_react/static/js/main.269677f4.js.map",
-    "787.08d5b53a.chunk.js.map": "/%20voted_post_react/static/js/787.08d5b53a.chunk.js.map"
+    "main.css": "/posts-react-project/static/css/main.479be696.css",
+    "main.js": "/posts-react-project/static/js/main.3be70198.js",
+    "static/js/787.08d5b53a.chunk.js": "/posts-react-project/static/js/787.08d5b53a.chunk.js",
+    "index.html": "/posts-react-project/index.html",
+    "main.479be696.css.map": "/posts-react-project/static/css/main.479be696.css.map",
+    "main.3be70198.js.map": "/posts-react-project/static/js/main.3be70198.js.map",
+    "787.08d5b53a.chunk.js.map": "/posts-react-project/static/js/787.08d5b53a.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.479be696.css",
-    "static/js/main.269677f4.js"
+    "static/js/main.3be70198.js"
   ]
 }
